@@ -2,7 +2,7 @@
   "name": "spotrtsequiment",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://KrishTVK16.github.io/Suriyas_Sports_Equipment/",
+  "homepage": "https://KrishTVK16.github.io/suriyas-sports_equipment_website/",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
