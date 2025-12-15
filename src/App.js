@@ -66,7 +66,7 @@ function App() {
     <AuthProvider>
       <WishlistProvider>
         <CartProvider>
-          <Router>
+          <Router basename={process.env.PUBLIC_URL}>
             <div className="min-h-screen flex flex-col">
               <Navbar />
               <main className="flex-grow">
