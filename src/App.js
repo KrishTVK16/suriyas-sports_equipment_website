@@ -139,7 +139,7 @@ function App() {
     <AuthProvider>
       <WishlistProvider>
         <CartProvider>
-          <Router>
+          <Router basename="/suriyas-sports_equipment_website">
             <AppContent />
           </Router>
         </CartProvider>
