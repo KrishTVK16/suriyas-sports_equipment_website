@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/suriyas-sports_equipment_website/static/css/main.561b6583.css",
+    "main.js": "/suriyas-sports_equipment_website/static/js/main.245b1296.js",
+    "static/js/453.bf0ef6dd.chunk.js": "/suriyas-sports_equipment_website/static/js/453.bf0ef6dd.chunk.js",
+    "index.html": "/suriyas-sports_equipment_website/index.html",
+    "main.561b6583.css.map": "/suriyas-sports_equipment_website/static/css/main.561b6583.css.map",
+    "main.245b1296.js.map": "/suriyas-sports_equipment_website/static/js/main.245b1296.js.map",
+    "453.bf0ef6dd.chunk.js.map": "/suriyas-sports_equipment_website/static/js/453.bf0ef6dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.561b6583.css",
+    "static/js/main.245b1296.js"
+  ]
+}
